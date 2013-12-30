@@ -47,7 +47,8 @@ Voila, notre dossier est prêt, nous allons donc commencer l'execution.
 - ./configure
 - make
 - sudo make install
--
+
+
 La librairie est maintenant configurée, il est temps de créer l'extension.
 
 #### Errors Autoconf
@@ -61,6 +62,7 @@ J'ai eu cette erreur sur deux Mac différent, j'installe donc ceci à chaque foi
 - ./configure
 - make
 - sudo make install
+
 
 #### Compilation MCrypt PHP
 A présent nous allons compiler mcrypt et vérifier que tout ce passe bien.
